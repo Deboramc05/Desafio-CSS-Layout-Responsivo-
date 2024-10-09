@@ -7,7 +7,7 @@ Projeto de HMTL e CSS do clone da página do Discord usando os conceitos de resp
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-**GitHubPages:** pode também acessar o projeto nesse [link](  ), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
+**GitHubPages:** pode também acessar o projeto nesse [link]( https://deboramc05.github.io/Desafio-CSS-Layout-Responsivo-/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
 
 ## O que foi feito nesse projeto:
 - Criei um clone da página do Discord usando os conceitos de responsividade adquiridos no curso;
